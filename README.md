@@ -25,6 +25,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-valero&layout=compact&show_icons=true&theme=tokyonight" alt="jose-valero" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-valero&show_icons=true&theme=tokyonight" alt="jose-valero" /></p>
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/jose-valero)
 
 ## About me in code
 ```javascript
