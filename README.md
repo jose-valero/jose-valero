@@ -1,15 +1,16 @@
 ![cover_4](https://user-images.githubusercontent.com/56372433/94945004-6cbccd80-04b0-11eb-85fe-9ed95b0d639e.png)
 
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1?si=LKSQl95aTIWy4wfd9RyQfw) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/https://www.linkedin.com/in/josemiguelvalero/)](https://www.linkedin.com/in/anathaynafranca/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jmiguelvalero)](https://twitter.com/anadehavaiana) <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-valero" alt="jose-valero" /> </p>
 
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-valero" alt="jose-valero" /> </p>
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/https://twitter.com/jmiguelvalero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/jmiguelvalero" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/josemiguelvalero/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/josemiguelvalero/" height="30" width="40" /></a>
-</p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -49,6 +50,6 @@ const joseValero = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and redux"
 }
 ```
-## Playlist for coding [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1?si=LKSQl95aTIWy4wfd9RyQfw) 
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1?si=LKSQl95aTIWy4wfd9RyQfw) 
 
 
