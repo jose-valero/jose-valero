@@ -8,6 +8,17 @@
 
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+ 🔭 I’m planning for a Project **Vision: eCommerce**.
+ 
+ 🌱 I’m currently learning ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+ 
+ :books: I want to learn ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) and ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
+ 
+ 👯 I’m looking to collaborate for a **react** and **redux** project
+ 
+ 💬 Ask me about **Frontend Development, UX/UI and Web Technologies**
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
