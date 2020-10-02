@@ -49,5 +49,6 @@ const joseValero = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and redux"
 }
 ```
+## Playlist for coding [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1?si=LKSQl95aTIWy4wfd9RyQfw) 
 
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq)
+
