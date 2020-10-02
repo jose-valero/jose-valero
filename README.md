@@ -21,8 +21,9 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-valero&layout=compact&show_icons=true&theme=tokyonight" alt="jose-valero" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jose-valero&show_icons=true&theme=tokyonight" alt="jose-valero" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-valero&layout=compact&show_icons=true&theme=tokyonight" alt="jose-valero" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-valero&show_icons=true&theme=tokyonight" alt="jose-valero" /></p>
 
 ## About me in code
 ```javascript
