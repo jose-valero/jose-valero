@@ -2,7 +2,9 @@
 
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1?si=LKSQl95aTIWy4wfd9RyQfw) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/https://www.linkedin.com/in/josemiguelvalero/)](https://www.linkedin.com/in/anathaynafranca/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jmiguelvalero)](https://twitter.com/anadehavaiana) <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-valero" alt="jose-valero" /> </p>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jmiguelvalero)](https://twitter.com/anadehavaiana)
+![Profile views](https://gpvc.arturio.dev/jose-valero)  <img src="https://img.shields.io/github/followers/jose-valero?label=Follow" style=" float:left, margin-right:10px" />
+
 
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
